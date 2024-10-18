@@ -13,6 +13,7 @@ To get started with development, you will need to have cloned this repo to your 
 
 - Amazon EC2 Instance with GPU, g4dn.xlarge with 30GB storage minimum.
 - Linux Host or WSL on a Windows machine.
+- Not tested on Mac, but it should be the same.
 
 
 ### Create an EC2 Instance with GPU
